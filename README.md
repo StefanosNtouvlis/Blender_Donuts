@@ -18,7 +18,7 @@ This project was a fantastic journey into the world of 3D animation and design. 
   
 2. **Clone the Repository:**
    ```bash
-   git clone https://github.com/YourUsername/Blender4-DonutAnimation.git
+   git clone https://github.com/YourUsername/Blender_Donuts.git
    ```
 
 3. **Open in Blender:**
